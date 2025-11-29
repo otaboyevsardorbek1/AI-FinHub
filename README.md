@@ -126,7 +126,7 @@ Jamiyat uchun:
 
 📌 O‘rnatish (Installation)
 
-git clone https://github.com/YOUR-REPO/ai-finhub.git
+git clone https://github.com/otaboyevsardorbek1/ai-finhub.git
 cd ai-finhub
 
 Backend uchun:
