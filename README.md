@@ -1,106 +1,76 @@
-# 🌟 AI-FinHub  
-### Ovozli Bank Xizmati + AI Ta’lim Kredit Maslahatchisi Super Platformasi
+🌟 AI-FinHub  
+Ovozli Bank Xizmati + AI Ta’lim Kredit Maslahatchisi Super Platformasi
 
-![Status](https://img.shields.io/badge/Project-Active-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-Mobile%20%7C%20Web-blue)
-![AI](https://img.shields.io/badge/AI-NLP%20%7C%20Voice%20Assistant%20%7C%20Recommender-purple)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-success)
+[STATUS BADGE]
+Project: Active
+Platform: Mobile | Web
+AI: NLP | Voice Assistant | Recommender
+License: MIT
+Contributions: Welcome
 
----
+------------------------------------------------------------
 
-## 🚀 Loyihaga Umumiy Nazariy Ko‘rinish
+🎨 Logo
+(Logo rasmini shu joyga qo'ying → assets/logo.png)
 
-**AI-FinHub** — qishloq aholisi, keksa avlod va yoshlar uchun mo‘ljallangan *yagona super platforma* bo‘lib, ikki asosiy funksiyani birlashtiradi:
+📱 UI/UX Mockup Rasmlari
+(Mockup rasmlar → assets/mockup1.png)
 
-1. **Ovozli Bank Xizmati ("Cho‘pon Hamyoni")**  
-2. **AI Ta’lim Kredit Maslahatchisi**
+📊 Diagrammalar (PNG)
+(Diagramma rasmlari → assets/diagram.png)
 
-Platforma moliyaviy inklyuziyani oshiradi, yoshlar uchun ta’lim imkoniyatlarini kengaytiradi va Agrobankning mijozlar bazasini sezilarli darajada kengaytiradi.
+------------------------------------------------------------
 
----
+🚀 Loyihaga Umumiy Nazariy Ko‘rinish
 
-# 🎯 Asosiy Muammo
+AI-FinHub — qishloq aholisi, keksa avlod va yoshlar uchun mo‘ljallangan super platforma bo‘lib, 2 asosiy bo‘limdan iborat:
+1) Ovozli Bank Xizmati ("Cho‘pon Hamyoni")
+2) AI Ta’lim Kredit Maslahatchisi
 
-- Qishloq aholisining katta qismi bank xizmatlaridan foydalana olmaydi.
-- Keksalar zamonaviy ilovalardan foydalanishda qiynaladi.
-- Yoshlar ta’lim kreditlari va grantlar haqida yetarlicha ma’lumotga ega emas.
-- Kredit tarixi bo‘lmagani uchun ko‘plab insonlar kredit ololmaydi.
+U keng qatlam uchun moliyaviy inklyuziyani kuchaytiradi va xizmatlardan unumli foydalanish imkoniyatini beradi.
 
----
+------------------------------------------------------------
 
-# 🌟 Yechim: AI-FinHub Super Platformasi
+🎯 Asosiy Muammo
+- Qishloq aholisi bank xizmatlaridan foydalana olmaydi.
+- Keksalar mobil ilovalardan qiynaladi.
+- Talabalar ta’lim kreditlari haqida to‘liq ma’lumotga ega emas.
+- Kredit tarixi bo‘lmagan mijozlar kredit ola olmaydi.
 
-AI-FinHub ovozli boshqaruv, sun’iy intellektli tavsiyalar va soddalashtirilgan interfeys yordamida barcha muammolarga javob beradi.
+------------------------------------------------------------
 
----
+🌟 Yechim: AI-FinHub Super Platformasi
+Ovozli boshqaruv, AI tavsiyalari va ultra-soddalashtirilgan interfeys yordamida barcha muammolarni hal qiladi.
 
-## 🧠 Platforma Xususiyatlari
+------------------------------------------------------------
 
-### 🔊 **1) Ovozli Interfeys (Voice Banking)**
+🧠 Platforma Xususiyatlari
 
-Foydalanuvchi shunchaki gapiradi:
-- “Balansim qancha?”
-- “Falonga 50 ming yubor.”
-- “Elektr to‘lovini to‘la.”
-
-AI bajara oladi:
+1) 🔊 Ovozli Interfeys (Voice Banking)
+AI quyidagilarni bajaradi:
 - Balans tekshirish
-- Pul o‘tkazma
+- Pul o‘tkazish
 - To‘lovlar
+- Kredit eslatmalari
 - Omonat holati
-- Kredit bo‘yicha eslatmalar
 
-**Texnologiyalar:**
-- Speech-to-Text (STT)
-- TTS (Text-to-Speech)
-- NLP (Natural Language Understanding)
+2) 🧮 Ijtimoiy Kredit Reytingi
+AI quyidagilarni tahlil qiladi:
+- Mobil operator ma’lumotlari
+- Kommunal to‘lovlar
+- Mahalla tavsiyalari
+- To‘lov intizomi
 
----
+3) 🎓 AI Ta’lim Kredit Maslahatchisi
+Talabaga mos OTM, kurslar, ta’lim krediti va hujjatlar ro‘yxatini beradi.
 
-### 🧮 **2) Ijtimoiy Kredit Reytingi (Social Credit Score)**
+4) 📘 Moliyaviy Savodxonlik Treneri
+Foydalanuvchiga jamg‘arish, kredit tanlash va xatolardan qochishni o‘rgatadi.
 
-Kredit tarixi yo‘q foydalanuvchilar uchun AI quyidagilarga asoslanadi:
-- Mobil operator tarifi va faoliyati  
-- Kommunal to‘lovlar  
-- Jamoa (mahalla) tavsiyalari  
-- To‘lov intizomi  
+------------------------------------------------------------
 
-Natijada:
-**“Ijtimoiy Reyting”** → Bank uchun riskni kamaytiruvchi parametr bo‘ladi.
+🧩 Tizim Arxitekturasi (Mermaid Diagramma)
 
----
-
-### 🎓 **3) AI Ta’lim Kredit Maslahatchisi**
-
-Talaba yozadi:
-> “Men 18 yoshdaman, ITga qiziqaman, budjetim cheklangan.”
-
-AI:
-- Mos OTM va kurslarni topadi  
-- Ta’lim kreditlari va grantlar bo‘yicha 3 ta eng mos tavsiya beradi  
-- Hujjatlar ro‘yxatini chiqaradi  
-- Arizani to‘ldirishda yordam beradi  
-
-**Algoritmlar:**
-- Recommendation System  
-- Profilga asoslangan Matching Engine  
-
----
-
-### 📘 **4) Moliyaviy Savodxonlik AI Treneri**
-
-Platforma foydalanuvchiga:
-- qanday jamg‘arishni,
-- qanday kredit tanlashni,
-- qanday moliyaviy xatolardan qochishni  
-o‘rgatadi.
-
----
-
-# 🧩 Tizim Arxitekturasi (Diagramma)
-
-```mermaid
 flowchart TD
     A[Mobile/Web App] --> B[Voice Engine STT/TTS]
     A --> C[Chatbot UI]
@@ -115,3 +85,81 @@ flowchart TD
     E --> H[(Bank Database)]
     F --> H
     G --> H
+
+------------------------------------------------------------
+
+📱 Asosiy Funksiyalar
+- Ovozli buyruqlar bilan bank xizmatlari
+- Tez to‘lovlar va pul o‘tkazmalari
+- Soddalashtirilgan interfeys
+- Ta’lim kredit tavsiyalari
+- AI hujjat tayyorlash
+- Ijtimoiy kredit reytingi
+
+------------------------------------------------------------
+
+🏆 Loyiha Afzalliklari
+
+Bank uchun:
+- 200,000+ yangi mijoz
+- Raqobatchilardan ustunlik
+- Yoshlar segmenti kengayadi
+- Kredit berish jarayoni yaxshilanadi
+
+Jamiyat uchun:
+- Moliyaviy inklyuziya
+- Qishloqqa qulay xizmatlar
+- Talabalar uchun imkoniyat
+- Moliyaviy savodxonlik oshadi
+
+------------------------------------------------------------
+
+🧪 Texnologiyalar
+- Python / Node.js
+- Flutter / React Native
+- Google / Vosk / Azure STT
+- Transformers (NLP)
+- FastAPI / Express
+- PostgreSQL / MongoDB
+
+------------------------------------------------------------
+
+📌 O‘rnatish (Installation)
+
+git clone https://github.com/YOUR-REPO/ai-finhub.git
+cd ai-finhub
+
+Backend uchun:
+pip install -r requirements.txt
+
+Frontend uchun:
+npm install
+
+------------------------------------------------------------
+
+📎 Foydalanish (Usage)
+
+Backend:
+python app.py
+
+Frontend:
+npm start
+
+------------------------------------------------------------
+
+📁 Loyiha Tuzilishi
+
+/ai-finhub
+  /backend
+  /frontend
+  /models
+  /data
+  README.md
+  requirements.txt
+
+------------------------------------------------------------
+
+📞 Qo‘llab-quvvatlash
+Savollar bo‘lsa — Issues bo‘limida yozib qoldiring.
+
+© MIT License
